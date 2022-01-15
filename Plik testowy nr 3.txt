@@ -1,2 +1,3 @@
 123 test bla bla bla
 kolejna linijka
+linijka nr 3
