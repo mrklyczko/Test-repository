@@ -1,3 +1,4 @@
 wiersz 1
 wiersz 2
 bla bla bla
+wiersz 4
