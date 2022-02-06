@@ -1,4 +1,6 @@
-123 test bla bla bla
-kolejna linijka
-linijka nr 3
+
+
+
 wiersz 4
+wiersz 5
+skasowanie wierszy 1-3
